@@ -1,7 +1,7 @@
 ---
 title: "Beyond Consumption vs Creation"
 date: "2013-03-04"
-summary: ""
+summary: "One of my favourite pieces I've ever written. Holds up immensely well, I think."
 layout: archive
 ---
 

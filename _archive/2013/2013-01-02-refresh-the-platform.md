@@ -1,7 +1,7 @@
 ---
 title: "Refresh: The Platform"
 date: "2013-01-02"
-summary: ""
+summary: "In 2013 we came to our first refresh date. As I always do, I consider what the alternatives might be."
 layout: archive
 ---
 

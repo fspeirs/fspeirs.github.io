@@ -1,7 +1,7 @@
 ---
 title: "Two Weeks with iPad mini"
 date: "2012-11-19"
-summary: ""
+summary: "Some more thoughts on iPad mini."
 layout: archive
 ---
 

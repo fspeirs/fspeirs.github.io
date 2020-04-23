@@ -1,7 +1,7 @@
 ---
 title: "Thoughts on iPad mini"
 date: "2012-10-24"
-summary: ""
+summary: "Early thoughts on the iPad mini. That device seemed like a great idea, then a terrible one and today probably an idea whose time has been and gone."
 layout: archive
 ---
 

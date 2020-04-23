@@ -1,7 +1,7 @@
 ---
 title: "Portable Podcasting"
 date: "2013-11-19"
-summary: ""
+summary: "A write up of what I believe was the world's first ever podcast recorded, editied and published entirely on iOS."
 layout: archive
 ---
 

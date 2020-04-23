@@ -1,7 +1,7 @@
 ---
 title: "The Refresh: The Device"
 date: "2013-01-22"
-summary: ""
+summary: "I wasn't totally convinced about ChromeOS in 2013. Give it another six years...."
 layout: archive
 ---
 

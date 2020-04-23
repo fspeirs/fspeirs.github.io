@@ -1,7 +1,7 @@
 ---
 title: "Battle: Los Angeles"
 date: "2013-10-01"
-summary: ""
+summary: "The LAUSD debacle continues to haunt iOS deployments nearly a decade later. It was an unmitigated PR disaster in the education world."
 layout: archive
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Desktop-class\""
 date: "2013-11-08"
-summary: ""
+summary: "With the iPad Air, we saw the beginning of a trend where iPad hardware continually outpaced iPad software. iOS was going to be great next year. Still true in 2020."
 layout: archive
 ---
 

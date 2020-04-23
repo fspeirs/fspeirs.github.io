@@ -1,7 +1,7 @@
 ---
 title: "Teaching Programming with iOS and Amazon EC2"
 date: "2013-04-04"
-summary: ""
+summary: "Another refinement on teaching programming on iOS. Swift Playgrounds would eventually make this a lot easier."
 layout: archive
 ---
 
