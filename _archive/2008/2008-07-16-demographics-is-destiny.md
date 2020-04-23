@@ -1,7 +1,7 @@
 ---
 title: "Demographics Is Destiny"
 date: "2008-07-16"
-summary: "A post in which I consider where the world is going, post-iPhone."
+summary: "A post in which I consider where the world is going, post-iPhone. It's hilarious to look back on these numbers in 2020 and see how amazed I was at numbers which, today, would be considered utterly trivial."
 layout: archive
 ---
 

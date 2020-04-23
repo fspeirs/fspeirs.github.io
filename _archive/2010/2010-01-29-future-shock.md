@@ -1,7 +1,7 @@
 ---
 title: "Future Shock"
 date: "2010-01-29"
-summary: ""
+summary: "This piece, written a couple of days after the iPad announcement, got a lot of traction online at the time. I still think it holds up pretty well."
 layout: archive
 ---
 

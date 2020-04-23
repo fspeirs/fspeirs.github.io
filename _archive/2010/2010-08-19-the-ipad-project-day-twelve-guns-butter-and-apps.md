@@ -1,7 +1,7 @@
 ---
 title: "The iPad Project: Day Twelve - Guns, Butter and Apps"
 date: "2010-08-19"
-summary: ""
+summary: "Buying £300 of iTunes cards at Tesco...."
 layout: archive
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Teaching Programming on iOS"
 date: "2012-08-17"
-summary: ""
+summary: "One of a series of articles over the years about teaching programming on iOS devices."
 layout: archive
 ---
 

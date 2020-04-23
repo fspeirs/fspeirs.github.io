@@ -1,7 +1,7 @@
 ---
 title: "A School Day with the iPad"
 date: "2010-04-19"
-summary: ""
+summary: "My first day teaching with an iPad."
 layout: archive
 ---
 

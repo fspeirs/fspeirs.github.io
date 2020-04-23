@@ -1,7 +1,7 @@
 ---
 title: "A Workable Model for sub-1:1 iPad Use"
 date: "2011-05-11"
-summary: ""
+summary: "Trying to help schools that can't manage 1:1 iPads. This, to me, is the only model that works."
 layout: archive
 ---
 

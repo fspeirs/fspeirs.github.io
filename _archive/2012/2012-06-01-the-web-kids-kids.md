@@ -1,7 +1,7 @@
 ---
 title: "The Web Kids' Kids"
 date: "2012-06-01"
-summary: ""
+summary: "At some point, I just got bored waiting for people to catch up. Still waiting in 2020."
 layout: archive
 ---
 

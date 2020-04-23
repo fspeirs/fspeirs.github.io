@@ -1,7 +1,7 @@
 ---
 title: "iPad Fallacy #1: \"It's not for content creation\""
 date: "2010-02-04"
-summary: ""
+summary: "It's 2020 and we're still doing this debate."
 layout: archive
 ---
 

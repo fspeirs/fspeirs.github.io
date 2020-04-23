@@ -1,7 +1,7 @@
 ---
 title: "The iPad Project: Day Four - Activate the iPad!"
 date: "2010-08-10"
-summary: ""
+summary: "Backups remain a relatively unsolved problem on managed iOS."
 layout: archive
 ---
 

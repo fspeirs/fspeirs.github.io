@@ -1,7 +1,7 @@
 ---
 title: "Lion Server, MDM and a New Philosophy of Client Management"
 date: "2011-07-26"
-summary: ""
+summary: "This article is quite detailed and technical but I like it because I called a trend that 5-6 years later eventually arrived with DEP for Macs. Macs being managed like iOS devices."
 layout: archive
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "The iPad Project: Day Two"
 date: "2010-08-07"
-summary: ""
+summary: "It's a bit frightening to look back and see how unprepared I was to do this!"
 layout: archive
 ---
 

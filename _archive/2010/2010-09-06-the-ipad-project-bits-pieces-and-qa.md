@@ -1,7 +1,7 @@
 ---
 title: "The iPad Project: Bits, Pieces and Q&A"
 date: "2010-09-06"
-summary: ""
+summary: "Media interest in the programme begins."
 layout: archive
 ---
 

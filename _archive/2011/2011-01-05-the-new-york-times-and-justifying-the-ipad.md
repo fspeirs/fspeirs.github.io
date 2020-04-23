@@ -1,7 +1,7 @@
 ---
 title: "The New York Times and Justifying the iPad"
 date: "2011-01-05"
-summary: ""
+summary: "In 2011, iPads in schools started to attract some controversy."
 layout: archive
 ---
 

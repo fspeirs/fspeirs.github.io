@@ -1,7 +1,7 @@
 ---
 title: "The iPad Project: Day Eleven - Identity Crisis"
 date: "2010-08-17"
-summary: ""
+summary: "Eventually, the iPad would get some options to put soft asset tags on the lock screen."
 layout: archive
 ---
 

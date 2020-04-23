@@ -1,7 +1,7 @@
 ---
 title: "Accessibility on the iPad in Schools"
 date: "2010-12-20"
-summary: ""
+summary: "Some thoughts on accessibility."
 layout: archive
 ---
 

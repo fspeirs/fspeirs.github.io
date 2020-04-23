@@ -1,7 +1,7 @@
 ---
 title: "Apple's Technical Feats of the Decade"
 date: "2010-01-02"
-summary: ""
+summary: "More great memories of a time when fundamental advancements in core technology were being made."
 layout: archive
 ---
 

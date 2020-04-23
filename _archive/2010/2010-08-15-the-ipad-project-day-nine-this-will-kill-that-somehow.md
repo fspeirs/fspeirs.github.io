@@ -1,7 +1,7 @@
 ---
 title: "The iPad Project: Day Nine - This Will Kill That .... somehow."
 date: "2010-08-15"
-summary: ""
+summary: "Some of this was hopelessly optimistic - printing remains important and backpacks haven't really lightened up - but some of it definitely has come to pass. We've definitely stopped venerating technology."
 layout: archive
 ---
 

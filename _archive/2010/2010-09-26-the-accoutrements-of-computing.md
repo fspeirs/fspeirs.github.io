@@ -1,7 +1,7 @@
 ---
 title: "The Accoutrements of Computing"
 date: "2010-09-26"
-summary: ""
+summary: "In which I wonder if we will look back at the computing environment of 2010 with surprise."
 layout: archive
 ---
 

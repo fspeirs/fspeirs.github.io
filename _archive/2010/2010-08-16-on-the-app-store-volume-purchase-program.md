@@ -1,7 +1,7 @@
 ---
 title: "On the App Store Volume Purchase Program"
 date: "2010-08-16"
-summary: ""
+summary: "Volume Purchase had a difficult birth."
 layout: archive
 ---
 

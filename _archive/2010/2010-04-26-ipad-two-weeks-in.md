@@ -1,7 +1,7 @@
 ---
 title: "iPad, Two Weeks In"
 date: "2010-04-26"
-summary: ""
+summary: "It's 2020 and we're still wondering about Xcode on iPad."
 layout: archive
 ---
 

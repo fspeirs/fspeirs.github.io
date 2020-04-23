@@ -1,7 +1,7 @@
 ---
 title: "On Strategy"
 date: "2010-11-03"
-summary: ""
+summary: "Some thoughts on long-term school IT strategy."
 layout: archive
 ---
 

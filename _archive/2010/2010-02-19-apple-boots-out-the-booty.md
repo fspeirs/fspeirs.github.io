@@ -1,7 +1,7 @@
 ---
 title: "Apple Boots out the Booty"
 date: "2010-02-19"
-summary: ""
+summary: "It's 2020 and we're still sort of doing this debate too."
 layout: archive
 ---
 

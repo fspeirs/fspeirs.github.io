@@ -1,7 +1,7 @@
 ---
 title: "Three Mantras from the First Two Years"
 date: "2011-12-29"
-summary: ""
+summary: "I used these ideas in so many presentations over the years. They still guide my thinking."
 layout: archive
 ---
 

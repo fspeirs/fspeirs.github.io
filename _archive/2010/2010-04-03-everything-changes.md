@@ -1,7 +1,7 @@
 ---
 title: "Everything Changes"
 date: "2010-04-03"
-summary: ""
+summary: "Early optimism about the iPad."
 layout: archive
 ---
 

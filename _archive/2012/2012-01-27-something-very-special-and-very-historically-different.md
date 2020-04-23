@@ -1,7 +1,7 @@
 ---
 title: "Something Very Special and Very Historically Different"
 date: "2012-01-27"
-summary: ""
+summary: "Can't ever forget this quote."
 layout: archive
 ---
 

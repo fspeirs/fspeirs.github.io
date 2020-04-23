@@ -1,7 +1,7 @@
 ---
 title: "The iPad Project: Day Eight - The Wake Up Call"
 date: "2010-08-14"
-summary: ""
+summary: "I remember this day well - when I lost my iPad in a pile of 100 identical iPads."
 layout: archive
 ---
 

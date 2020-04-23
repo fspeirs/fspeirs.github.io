@@ -1,7 +1,7 @@
 ---
 title: "Driving the Classroom with iTunes U"
 date: "2012-02-19"
-summary: ""
+summary: "This was my first look at iTunes U. A great service in its day but Apple just left it to wither on the vine."
 layout: archive
 ---
 

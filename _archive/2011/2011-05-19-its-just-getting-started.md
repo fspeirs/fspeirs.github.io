@@ -1,7 +1,7 @@
 ---
 title: "It's just getting started"
 date: "2011-05-19"
-summary: ""
+summary: "A reflection on the first year, and becoming an ADE."
 layout: archive
 ---
 

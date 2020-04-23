@@ -1,7 +1,7 @@
 ---
 title: "iPod touch in School"
 date: "2010-01-22"
-summary: ""
+summary: "This is where I started to really think and write about computing in schools."
 layout: archive
 ---
 

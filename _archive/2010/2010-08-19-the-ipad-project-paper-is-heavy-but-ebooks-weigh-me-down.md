@@ -1,7 +1,7 @@
 ---
 title: "The iPad Project - Paper is Heavy, but eBooks weigh me down."
 date: "2010-08-19"
-summary: ""
+summary: "A decade on, eBook distribution remains torturous. We have never bothered with them."
 layout: archive
 ---
 

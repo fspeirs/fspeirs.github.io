@@ -1,7 +1,7 @@
 ---
 title: "iPads, Curriculum for Excellence and the Next Generation"
 date: "2010-10-19"
-summary: ""
+summary: "A reflection on Scotland's curriculum and the iPad."
 layout: archive
 ---
 

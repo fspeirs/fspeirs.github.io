@@ -1,7 +1,7 @@
 ---
 title: "The iPad Project: Apple Remote iPad"
 date: "2010-09-01"
-summary: ""
+summary: "An early wish-list for something like what became Apple Classroom - which wouldn't arrive for another six years."
 layout: archive
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Insecure at Any Speed"
 date: "2010-02-01"
-summary: ""
+summary: "And so began the debate over the 'war on general purpose computing'."
 layout: archive
 ---
 

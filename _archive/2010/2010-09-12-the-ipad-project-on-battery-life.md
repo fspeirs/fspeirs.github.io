@@ -1,7 +1,7 @@
 ---
 title: "The iPad Project: On Battery Life"
 date: "2010-09-12"
-summary: ""
+summary: "I'm pretty sure some of the named services here *still* use Flash."
 layout: archive
 ---
 

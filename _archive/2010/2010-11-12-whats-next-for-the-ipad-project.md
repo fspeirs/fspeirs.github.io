@@ -1,7 +1,7 @@
 ---
 title: "What's Next for the iPad Project?"
 date: "2010-11-12"
-summary: ""
+summary: "The big question of 'You did it - what now?'"
 layout: archive
 ---
 

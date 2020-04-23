@@ -1,7 +1,7 @@
 ---
 title: "Of 3G iPads and MiFis"
 date: "2010-05-29"
-summary: ""
+summary: "Dated post now, but built-in LTE is still not as widespread as I thought it might become."
 layout: archive
 ---
 

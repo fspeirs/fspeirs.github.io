@@ -1,7 +1,7 @@
 ---
 title: "The Next-Generation Classroom AV System"
 date: "2011-03-24"
-summary: ""
+summary: "In 2011 I started thinking about flat-screen TVs to replace projectors. By 2020, we have completely switched."
 layout: archive
 ---
 

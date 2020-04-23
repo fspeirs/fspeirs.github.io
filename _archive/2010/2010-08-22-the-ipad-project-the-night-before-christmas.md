@@ -1,7 +1,7 @@
 ---
 title: "The iPad Project: The Night Before Christmas"
 date: "2010-08-22"
-summary: ""
+summary: "School-managed take-home programmes remain the gold standard of school IT, in my view."
 layout: archive
 ---
 

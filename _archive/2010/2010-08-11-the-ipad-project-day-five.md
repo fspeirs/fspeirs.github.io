@@ -1,7 +1,7 @@
 ---
 title: "The iPad Project: Day Five"
 date: "2010-08-11"
-summary: ""
+summary: "Remember iPhone Configuration Utility?"
 layout: archive
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "The iPad Project: How It's Going"
 date: "2010-09-23"
-summary: ""
+summary: "A reflection on the first five weeks."
 layout: archive
 ---
 

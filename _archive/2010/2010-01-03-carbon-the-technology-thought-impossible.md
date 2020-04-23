@@ -1,7 +1,7 @@
 ---
 title: "Carbon: The Technology Thought Impossible"
 date: "2010-01-03"
-summary: ""
+summary: "To this day, I still can't quite believe that Carbon happened."
 layout: archive
 ---
 

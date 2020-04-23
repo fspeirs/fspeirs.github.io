@@ -1,7 +1,7 @@
 ---
 title: "Digital Exams on the iPad"
 date: "2012-02-06"
-summary: ""
+summary: "8 years later, this remains a tricky and mostly unresolved area."
 layout: archive
 ---
 

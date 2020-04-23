@@ -1,7 +1,7 @@
 ---
 title: "iPad as Digital Whiteboard"
 date: "2011-03-29"
-summary: ""
+summary: "Thinking about iPad as digital whiteboard."
 layout: archive
 ---
 

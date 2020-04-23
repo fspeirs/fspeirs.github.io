@@ -1,7 +1,7 @@
 ---
 title: "Some Thoughts from the Classroom on iPad 2"
 date: "2011-03-03"
-summary: ""
+summary: "iPad 2, the first refresh to the original iPad, was really amazing. A decade on, cameras in the classroom never turned out to be the problem we thought they might."
 layout: archive
 ---
 

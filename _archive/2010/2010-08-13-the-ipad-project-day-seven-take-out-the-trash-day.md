@@ -1,7 +1,7 @@
 ---
 title: "The iPad Project: Day Seven - Take Out The Trash Day"
 date: "2010-08-13"
-summary: ""
+summary: "In which I realise what a factor packaging is in mass computer deployments."
 layout: archive
 ---
 

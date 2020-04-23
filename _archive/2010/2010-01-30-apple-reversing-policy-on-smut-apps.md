@@ -1,7 +1,7 @@
 ---
 title: "Apple Reversing Policy on Smut Apps?"
 date: "2010-01-30"
-summary: ""
+summary: "In the early days of the App Store, there were some ... issues ... around content."
 layout: archive
 ---
 

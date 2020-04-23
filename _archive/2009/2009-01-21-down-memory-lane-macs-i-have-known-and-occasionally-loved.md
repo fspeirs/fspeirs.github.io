@@ -1,7 +1,7 @@
 ---
 title: "Down Memory Lane: Macs I Have Known And Occasionally Loved"
 date: "2009-01-21"
-summary: ""
+summary: "Although I'm much more ambivalent about Apple than I used to be, I have nothing but delightful memories of being an Apple user through the golden years of Steve Jobs' return to Apple."
 layout: archive
 ---
 

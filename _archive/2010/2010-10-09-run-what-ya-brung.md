@@ -1,7 +1,7 @@
 ---
 title: "Run What Ya Brung"
 date: "2010-10-09"
-summary: ""
+summary: "I still agree with the point made here that a mixed tech environment imposes a vast range of hidden costs."
 layout: archive
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "The iPad Project: Day Three - End of an Era, and DRM Hell"
 date: "2010-08-09"
-summary: ""
+summary: "App distribution was a colossal pain in the rear in the early days of iPad."
 layout: archive
 ---
 

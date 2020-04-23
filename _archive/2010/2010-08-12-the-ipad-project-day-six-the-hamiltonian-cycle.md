@@ -1,7 +1,7 @@
 ---
 title: "The iPad Project: Day Six - The Hamiltonian Cycle"
 date: "2010-08-12"
-summary: ""
+summary: "This post got me into some trouble with Apple. Something about Terms and Conditions, they said. I told them that as soon as they gave me an alternative solution, I would switch to it. Took a while."
 layout: archive
 ---
 
