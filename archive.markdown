@@ -16,7 +16,7 @@ Almost all of the technical details in these posts are surely now obsolete so th
 {% for page in site.archive %}
   <li class="archiveitem">
 	<a href="{{ page.url }}">{{page.date | date: '%Y-%m-%d'}} - {{ page.title }}</a><br>
-	<i>{{page.summary}}</i>         
+	<i>{{page.summary | markdownify}}</i>         
   </li>
 {% endfor %}
 </ul>
