@@ -30,6 +30,9 @@ twitter_username: fraserspeirs
 theme: minima 
 plugins:
   - jekyll-feed
+header_pages:
+  - about.markdown
+  - archive.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -50,3 +53,7 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+collections:
+    archive:
+        output: true
