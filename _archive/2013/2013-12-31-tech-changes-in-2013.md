@@ -1,7 +1,7 @@
 ---
 title: "Tech Changes in 2013"
 date: "2013-12-31"
-summary: "Reflections on changes in technology in 2013. Of note: this was the year we went serverless in school."
+summary: "Reflections on changes in technology in 2013. Of note: this was the year we went serverless in school. Google Drive became important to us and I got even more interested in ChromeOS."
 layout: archive
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "A First Look at Google Classroom"
 date: "2014-07-31"
-summary: ""
+summary: "Google Classroom arrives and I take a look from the perspective of an iTunes U user. Today, I'm all in on Google Classroom and it is so, so good."
 layout: archive
 ---
 

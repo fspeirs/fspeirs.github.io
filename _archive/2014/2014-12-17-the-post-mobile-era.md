@@ -1,7 +1,7 @@
 ---
 title: "The Post-Mobile Era"
 date: "2014-12-17"
-summary: ""
+summary: "ChromeOS continues to get interesting but, ultimately, the time isn't right yet. Remember: in technology, being early is indistinguishable from being wrong."
 layout: archive
 ---
 
