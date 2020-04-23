@@ -1,7 +1,7 @@
 ---
 title: "What's new in Apple Classroom 2.0"
 date: "2017-03-28"
-summary: ""
+summary: "Apple Classroom 2.0 started to get really quite good."
 layout: archive
 ---
 

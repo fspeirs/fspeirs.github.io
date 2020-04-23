@@ -1,7 +1,7 @@
 ---
 title: "Building our School's Third-Generation WiFi Network"
 date: "2017-10-16"
-summary: ""
+summary: "Reflections on building out a Unifi wifi network in school. Outstanding tech."
 layout: archive
 ---
 

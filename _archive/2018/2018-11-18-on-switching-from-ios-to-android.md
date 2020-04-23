@@ -1,7 +1,7 @@
 ---
 title: "On Switching from iOS to Android"
 date: "2018-11-18"
-summary: ""
+summary: "Unhappy with iPhones breaching £1000, I do the unthinkable and switch to Android."
 layout: archive
 ---
 

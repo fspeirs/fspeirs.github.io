@@ -1,7 +1,7 @@
 ---
 title: "A Year of Teaching Swift"
 date: "2017-06-01"
-summary: ""
+summary: "Reflections on teaching Swift - a very good learning language, in my view."
 layout: archive
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "On Switching from an iPad Pro and a Macbook to a Pixelbook"
 date: "2018-11-30"
-summary: ""
+summary: "In which I do the even more unthinkable and switch from iPad to Chromebook. The reasoning here is just the realisation that GSute is the most important platform in my life now and my hardware choices have to support that."
 layout: archive
 ---
 

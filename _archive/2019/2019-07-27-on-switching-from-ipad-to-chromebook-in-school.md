@@ -1,7 +1,7 @@
 ---
 title: "On Switching from iPad to Chromebook in School"
 date: "2019-07-27"
-summary: ""
+summary: "And, finally, the ultimate switch: moving the world's first 1:1 iPad school away from iOS to Chromebook. Writing here in 2020 under Coronavirus lockdown, I can honestly say this was the most prescient thing I have ever done."
 layout: archive
 ---
 

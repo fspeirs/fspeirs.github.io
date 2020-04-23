@@ -1,7 +1,7 @@
 ---
 title: "What’s Wrong With iOS 11/12 Multitasking"
-date: "2019-03-10"
-summary: ""
+date: "2017-09-19"
+summary: "iOS 11 was when I fell out of love with iOS. I could tell something was wrong with the mental model of the OS within the first five minutes of using it. I still think this and [I'm not the only one](https://www.theverge.com/2019/10/7/20898883/ipados-review-13-apple-features-multitasking-sidecar-browser-bugs-computer). "
 layout: archive
 ---
 

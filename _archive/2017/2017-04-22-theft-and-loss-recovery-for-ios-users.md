@@ -1,7 +1,7 @@
 ---
 title: "Theft and Loss Recovery for iOS Users"
 date: "2017-04-12"
-summary: ""
+summary: "Something horrible happened in France, but I was able to turn it into a learning point."
 layout: archive
 ---
 
