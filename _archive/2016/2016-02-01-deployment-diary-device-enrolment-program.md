@@ -1,7 +1,7 @@
 ---
 title: "Deployment Diary: Device Enrolment Program"
 date: "2016-02-01"
-summary: ""
+summary: "Apple's Device Enrolment Program was pretty great in the early days."
 layout: archive
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Deployment Diary: iPad Pro or iPad Air 2?"
 date: "2016-03-24"
-summary: ""
+summary: "There were periods of it being quite difficult to decide which iPad to buy. We eventually went with iPad Pro - a decision that ended up being quite expensive and the repair costs were incredibly expensive."
 layout: archive
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Say Hello to Canvas"
 date: "2016-01-08"
-summary: ""
+summary: "I am very proud to have been a Relay.FM podcaster with Federico Viticci for several years. Canvas evetually surpassed a million downloads."
 layout: archive
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Decommissioning Day"
 date: "2016-07-04"
-summary: ""
+summary: "I always love the day when you get to re-work everything."
 layout: archive
 ---
 

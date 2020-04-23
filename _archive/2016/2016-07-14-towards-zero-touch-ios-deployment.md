@@ -1,7 +1,7 @@
 ---
 title: "Towards Zero-Touch iOS Deployment"
 date: "2016-07-14"
-summary: ""
+summary: "Zero-touch deployment has always been the holy grail of edtech. I got really close with our last 2016-2019 deployment."
 layout: archive
 ---
 

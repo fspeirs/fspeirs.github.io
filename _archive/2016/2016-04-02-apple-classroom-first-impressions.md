@@ -1,7 +1,7 @@
 ---
 title: "Apple Classroom First Impressions"
 date: "2016-04-02"
-summary: ""
+summary: "Apple Classroom - that Apple Remote Desktop for iOS - eventually arrives."
 layout: archive
 ---
 

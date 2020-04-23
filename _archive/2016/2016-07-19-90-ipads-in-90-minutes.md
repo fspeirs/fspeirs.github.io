@@ -1,7 +1,7 @@
 ---
 title: "90 iPads in 90 Minutes"
 date: "2016-07-19"
-summary: ""
+summary: "One minute per device is kind of amazing. I'm still really proud of this work."
 layout: archive
 ---
 

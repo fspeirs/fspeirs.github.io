@@ -1,7 +1,7 @@
 ---
 title: "Thoughts on Swift Playgrounds"
 date: "2016-06-16"
-summary: ""
+summary: "Swift Playgrounds was an outstanding initative and the content was so very well written. As with too many Apple Edu products, it hasn't had the follow-through it needed. We went through a few years where Playgrounds was extremely glitchy."
 layout: archive
 ---
 

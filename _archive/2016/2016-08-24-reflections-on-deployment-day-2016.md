@@ -1,7 +1,7 @@
 ---
 title: "Reflections on Deployment Day 2016"
 date: "2016-08-24"
-summary: ""
+summary: "How did our zero-touch deployment go? Great."
 layout: archive
 ---
 
