@@ -7,4 +7,4 @@ layout: default
 
 This website belongs to Fraser Speirs.
 
-I have an archive of old blog posts from back when blogging was a thing.
+I have an [archive of old blog posts]({% link archive.markdown %}) from back when blogging was a thing.
