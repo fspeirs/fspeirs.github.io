@@ -1,6 +1,8 @@
 ---
 title: "The iPad Project: How It's Going"
 date: "2010-09-23"
+summary: ""
+layout: archive
 ---
 
 So we're now nearly five weeks into the iPad deployment and I thought it was time to update you in some detail.

@@ -1,6 +1,8 @@
 ---
 title: "Run What Ya Brung"
 date: "2010-10-09"
+summary: ""
+layout: archive
 ---
 
 Go to any technology-in-education conference these days and you will eventually hear someone make the following claim:

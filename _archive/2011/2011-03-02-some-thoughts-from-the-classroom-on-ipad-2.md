@@ -1,6 +1,8 @@
 ---
 title: "Some Thoughts from the Classroom on iPad 2"
 date: "2011-03-03"
+summary: ""
+layout: archive
 ---
 
 So it's finally here or, at least, announced and there are some interesting things for us teachers.

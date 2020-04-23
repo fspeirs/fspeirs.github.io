@@ -1,6 +1,8 @@
 ---
 title: "What’s Wrong With iOS 11/12 Multitasking"
 date: "2019-03-10"
+summary: ""
+layout: archive
 ---
 
 \[_Note: This is an old article I wrote but never published, in the hope that these issues would bave been fixed relatively quickly. I thought it would be an interesting historical note on the design issues that ultimately drove me away from using the iPad as my main computer. I originally write this in September 2017, so a few details may be different on iOS 12 but the basic design remains the same. FS._\]

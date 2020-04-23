@@ -1,6 +1,8 @@
 ---
 title: "On Switching from iOS to Android"
 date: "2018-11-18"
+summary: ""
+layout: archive
 ---
 
 I may be having the most boring mid-life crisis that any man has ever had, or I may be opening a whole new chapter of my computing life. I don’t know.

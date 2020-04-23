@@ -1,6 +1,8 @@
 ---
 title: "Apple Classroom First Impressions"
 date: "2016-04-02"
+summary: ""
+layout: archive
 ---
 
 Yesterday, I got Apple Classroom up and running at school thanks to the release of Casper 9.9, which supports the new features of iOS 9.3. Here are some early impressions. I'll mostly focus on the technology and how well it works, rather than how effective it is for teaching since I've only had a day or so to play with it.
@@ -39,15 +41,11 @@ Classroom configures itself automatically when your MDM server sends a Configura
 
  Classroom basically has two views: the My Classes and the in-class screen. My Classes is a very simple interface that lets you pick from a list.
 
-\>
-
-![image.jpg](https://images.squarespace-cdn.com/content/v1/5005914284aed5ec11c2d2e5/1459591979658-TZNV1WF7GUESJEWOZ4N8/ke17ZwdGBToddI8pDm48kCFk-HIRdy_z0PvxLbIWyiZ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0hHMyhIh2kKzuOL3ydJCryATlbr7F0IkXnds7UKpW3RQaNFdLKPoDBdsSTFxf21lPQ/image.jpg)
+![image.jpg](/assets/Classroom1.jpg)
 
 The in-class screen is where all the action happens. The basic idea is controls at the top and groups below. The controls across the top of the screen - Open, Navigate, Lock and Screens - act on all the iPads in the currently selected group.
 
-\>
-
-![image.jpg](https://images.squarespace-cdn.com/content/v1/5005914284aed5ec11c2d2e5/1459592111178-PBJJNIUJYX5KXXQILRE6/ke17ZwdGBToddI8pDm48kCFk-HIRdy_z0PvxLbIWyiZ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0hHMyhIh2kKzuOL3ydJCryATlbr7F0IkXnds7UKpW3RQaNFdLKPoDBdsSTFxf21lPQ/image.jpg)
+![image.jpg](/assets/Classroom2.jpg)
 
 This is really nice because you don't have to go through a Select All step before doing an operation like locking the class screens.
 
@@ -67,9 +65,7 @@ The nice thing about groups is that you can use them as shortcuts to Lock, Navig
 
 In order to open an app in Classroom, the teacher has to have that app on their iPad. The teacher is presented with a scrolling list of the apps installed on the teacher's device, and can pick one to launch on all the iPads in the current group.
 
-\>
-
-![image.jpg](https://images.squarespace-cdn.com/content/v1/5005914284aed5ec11c2d2e5/1459592239846-7RWM6E11242J8LH0AFRH/ke17ZwdGBToddI8pDm48kCFk-HIRdy_z0PvxLbIWyiZ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0hHMyhIh2kKzuOL3ydJCryATlbr7F0IkXnds7UKpW3RQaNFdLKPoDBdsSTFxf21lPQ/image.jpg)
+![image.jpg](/assets/Classroom3.jpg)
 
 I have a couple of quibbles about this interface. Firstly, there's no way to filter through the apps. My iPad has 125 apps installed, so finding one can be a little tricky. There are four "Recents" slots at the top, which helps a bit.
 
@@ -79,9 +75,7 @@ Finally, there is no indication of which apps the students have available to the
 
 I would also like to be able to create shortcut buttons for launching frequently used apps. Most teachers will have a few that they use routinely - iTunes U is a great candidate - and having direct shortcuts for those would be helpful.
 
-\>
-
-![image.jpg](https://images.squarespace-cdn.com/content/v1/5005914284aed5ec11c2d2e5/1459592296801-D30IO8HK3G3VVBN4LM26/ke17ZwdGBToddI8pDm48kCFk-HIRdy_z0PvxLbIWyiZ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0hHMyhIh2kKzuOL3ydJCryATlbr7F0IkXnds7UKpW3RQaNFdLKPoDBdsSTFxf21lPQ/image.jpg)
+![image.jpg](/assets/Classroom4.jpg)
 
 There is an option to lock the student into an app after launching it. This could be useful for a test situation. Classroom seems to do two things when you select this option: firstly it hides all other apps from the home screen. Secondly, it initiates a guided access session for that app.
 
@@ -101,9 +95,7 @@ One can imagine that a Share Sheet action for Safari to send its current URL to 
 
 As with opening apps, navigating students' iPads to URLs is extremely fast. Less than two seconds to initiate the load on an entire class in my testing.
 
-\>
-
-![image.jpg](https://images.squarespace-cdn.com/content/v1/5005914284aed5ec11c2d2e5/1459592571910-YIX4B8JJUEZRN4GF1WTJ/ke17ZwdGBToddI8pDm48kCFk-HIRdy_z0PvxLbIWyiZ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0hHMyhIh2kKzuOL3ydJCryATlbr7F0IkXnds7UKpW3RQaNFdLKPoDBdsSTFxf21lPQ/image.jpg)
+![image.jpg](/assets/Classroom5.jpg)
 
 Navigating to books is similarly slick. Inside classroom, the teacher can select any book they have in iBooks. Classroom then lets the teacher navigate the book's Table of Contents and pick a chapter to launch on the students' iPads. Unlike apps, if the student doesn't have the book installed, they will be directed to the iBookstore to get it.
 
@@ -121,9 +113,7 @@ Students are always made aware that their screen is being monitored. The standar
 
 I would have liked to have seen a new colour for the status bar as I discovered quickly that the students did not associate seeing the AirPlay status bar with meaning "my screen is being monitored". They just wondered why their iPad was AirPlaying and where it was sending their screen to. I think that should change.
 
-\>
-
-![image.jpg](https://images.squarespace-cdn.com/content/v1/5005914284aed5ec11c2d2e5/1459592452838-E06CQKDEEBB6H3KYFG0H/ke17ZwdGBToddI8pDm48kBZw6jF4_OvU-ddo_vwqGhp7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1Ub61YCrK70I7JIpWiI8ho4Yi1WvVNQtDE81xuRbL1MFKm0sD-Bab7E9MY8W31A7zMQ/image.jpg)
+![image.jpg](/assets/Classroom6.jpg)
 
 ### Locking Screens with Classroom
 

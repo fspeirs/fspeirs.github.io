@@ -1,6 +1,8 @@
 ---
 title: "The iPad Project: Apple Remote iPad"
 date: "2010-09-01"
+summary: ""
+layout: archive
 ---
 
 One of the applications I depend on every day in school is [Apple Remote Desktop](http://www.apple.com/remotedesktop/). Now, many people think of ARD as a kind of steroid-enhanced VNC app. It is that, but it's so much more. Please don't email me recommending VNC apps. I have them and use them but just looking at another machine's screen is only a part of the problem.

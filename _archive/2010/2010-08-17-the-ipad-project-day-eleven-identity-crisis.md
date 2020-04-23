@@ -1,6 +1,8 @@
 ---
 title: "The iPad Project: Day Eleven - Identity Crisis"
 date: "2010-08-17"
+summary: ""
+layout: archive
 ---
 
 Today we busted out the labelling machines. Every iPad, charger and sync cable got a name tag.

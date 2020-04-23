@@ -1,6 +1,8 @@
 ---
 title: "A Year of Teaching Swift"
 date: "2017-06-01"
+summary: ""
+layout: archive
 ---
 
 We are nearly at the end of the school year here in Scotland and I wanted to take some time to reflect on the experience of teaching the Computer Science curriculum this year using Swift Playgrounds and Apple's Learn to Code curriculum.

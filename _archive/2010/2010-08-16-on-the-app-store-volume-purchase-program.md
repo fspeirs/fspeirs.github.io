@@ -1,6 +1,8 @@
 ---
 title: "On the App Store Volume Purchase Program"
 date: "2010-08-16"
+summary: ""
+layout: archive
 ---
 
 Not long - minutes really - after I blogged about the [issues around App Store DRM](/blog/2010/8/9/the-ipad-project-day-three-end-of-an-era-and-drm-hell.html), Apple announced the [App Store Volume Purchase Program](http://www.apple.com/itunes/education/).

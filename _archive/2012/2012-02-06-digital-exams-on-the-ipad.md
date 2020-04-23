@@ -1,6 +1,8 @@
 ---
 title: "Digital Exams on the iPad"
 date: "2012-02-06"
+summary: ""
+layout: archive
 ---
 
 It's prelim week at Cedars. In Scotland, pupils with additional needs can use a “Digital Question Paper” to complete their exam.

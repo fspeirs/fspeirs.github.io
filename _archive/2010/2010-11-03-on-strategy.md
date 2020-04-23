@@ -1,6 +1,8 @@
 ---
 title: "On Strategy"
 date: "2010-11-03"
+summary: ""
+layout: archive
 ---
 
 Jeff Bezos is my hero. Every time I think about what Amazon might do, I think "if Jeff Bezos was smart, he would do X". Usually what happens is that they do X in an even more brave and insightful way than I could imagine.

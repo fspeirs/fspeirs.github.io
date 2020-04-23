@@ -1,6 +1,8 @@
 ---
 title: "The Refresh: The Device"
 date: "2013-01-22"
+summary: ""
+layout: archive
 ---
 
 In the last piece, I explained my thinking on the platform we're choosing for our refresh. We're sticking with iOS, not just because we're already on iOS but because I don't see compelling reasons to switch to any other platform.

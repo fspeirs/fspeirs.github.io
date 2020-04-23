@@ -1,6 +1,8 @@
 ---
 title: "\"Desktop-class\""
 date: "2013-11-08"
+summary: ""
+layout: archive
 ---
 
 Last week, on the day it launched, I purchased an iPad Air. I had been looking forward to an iPad upgrade for a while, having spent the past 18 months on, variously, a 3rd generation iPad and a first-generation iPad mini.

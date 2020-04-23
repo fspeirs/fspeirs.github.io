@@ -1,6 +1,8 @@
 ---
 title: "Everything Changes"
 date: "2010-04-03"
+summary: ""
+layout: archive
 ---
 
 Today everything starts to change. None of us know yet whether it all changes for good or for bad but I feel fairly certain that the discussions we have about computing won't be like the discussions we had last year. The change won't be overnight, but it will come.

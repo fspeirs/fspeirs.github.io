@@ -1,6 +1,8 @@
 ---
 title: "Battle: Los Angeles"
 date: "2013-10-01"
+summary: ""
+layout: archive
 ---
 
 Last week was a bad week for iPad deployment. The students of Los Angeles Unified School District have "hacked" their school-provided iPads and figured out how to surf the web.

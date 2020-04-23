@@ -1,6 +1,8 @@
 ---
 title: "Something Very Special and Very Historically Different"
 date: "2012-01-27"
+summary: ""
+layout: archive
 ---
 
 > _"Right now, if you buy a computer system and you want to solve one of your problems, we immediately throw a big problem right in the middle of you and your problem which is learning how to use the computer. A substantial problem to overcome. Once you overcome that, it's a phenomenal tool. But there is a barrier of having to overcome that problem._

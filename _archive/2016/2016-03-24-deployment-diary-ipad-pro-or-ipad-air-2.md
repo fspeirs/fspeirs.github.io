@@ -1,6 +1,8 @@
 ---
 title: "Deployment Diary: iPad Pro or iPad Air 2?"
 date: "2016-03-24"
+summary: ""
+layout: archive
 ---
 
 I promised a while back that I would start a "Deployment Diary" documenting what I was doing for our second redeployment at Cedars. Since the first post, what I've mostly been doing is sitting and waiting for Apple to have the March event that was long-rumoured to be bringing new iPads.

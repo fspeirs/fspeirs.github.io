@@ -1,6 +1,8 @@
 ---
 title: "On Switching from iPad to Chromebook in School"
 date: "2019-07-27"
+summary: ""
+layout: archive
 ---
 
 This summer, my school is making a substantial change in our 1-to-1 programme. After nearly ten years, we are switching from iPad to Chromebook. I thought I would write a bit about why we are doing this.

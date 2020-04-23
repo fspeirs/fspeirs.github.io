@@ -1,6 +1,8 @@
 ---
 title: "The New York Times and Justifying the iPad"
 date: "2011-01-05"
+summary: ""
+layout: archive
 ---
 
 Winnie Hu, writing in the New York Times, reports on [the increasing use of the iPad in American schools](http://www.nytimes.com/2011/01/05/education/05tablets.html):

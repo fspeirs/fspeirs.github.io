@@ -1,6 +1,8 @@
 ---
 title: "A Workable Model for sub-1:1 iPad Use"
 date: "2011-05-11"
+summary: ""
+layout: archive
 ---
 
 The iPad is designed to be owned and not shared. It is a _personal device_. This isn't Apple screwing you over or ripping you off. It's just the way it was designed. If you want a multi-user operating system, Mac OS X will do a fantastic job for you.

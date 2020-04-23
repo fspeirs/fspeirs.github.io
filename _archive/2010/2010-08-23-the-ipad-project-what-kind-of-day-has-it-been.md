@@ -1,6 +1,8 @@
 ---
 title: "The iPad Project: What Kind of Day Has It Been?"
 date: "2010-08-23"
+summary: ""
+layout: archive
 ---
 
 Day one is over and it was pretty much an unqualified success. Early days, of course, but I'm just delighted that it all worked exactly as I had planned.

@@ -1,6 +1,8 @@
 ---
 title: "Driving the Classroom with iTunes U"
 date: "2012-02-19"
+summary: ""
+layout: archive
 ---
 
 There was a time when iTunes U was just a section of the iTunes store where you could download audio and videos. Since Apple's recent education event, that's all changed. iTunes U is still a part of the iTunes Store but there's now a dedicated iTunes U app for iOS devices.

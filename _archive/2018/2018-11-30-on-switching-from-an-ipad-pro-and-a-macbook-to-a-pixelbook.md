@@ -1,6 +1,8 @@
 ---
 title: "On Switching from an iPad Pro and a Macbook to a Pixelbook"
 date: "2018-11-30"
+summary: ""
+layout: archive
 ---
 
 The stranger and more complex story of change in my computing life is the decision to move from an iPad Pro and a Macbook to a Chromebook. My computing is complicated and I wear too many hats but what I’m talking about here is my day-to-day main portable computing device.

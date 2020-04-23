@@ -1,6 +1,8 @@
 ---
 title: "Building our School's Third-Generation WiFi Network"
 date: "2017-10-16"
+summary: ""
+layout: archive
 ---
 
 I recently completed our school’s third wifi deployment which has been by far our best and most comprehensive network to date. I thought I would write up a bit about it here.

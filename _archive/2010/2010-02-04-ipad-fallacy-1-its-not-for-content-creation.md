@@ -1,6 +1,8 @@
 ---
 title: "iPad Fallacy #1: \"It's not for content creation\""
 date: "2010-02-04"
+summary: ""
+layout: archive
 ---
 
 I keep hearing this thing on the web that the iPad is "a consumption device, not a creation device". I don't know why people keep saying that. It's fast enough, it has enough storage and it has some seriously powerful applications. If that's your opinion, please enlighten me in the comments.

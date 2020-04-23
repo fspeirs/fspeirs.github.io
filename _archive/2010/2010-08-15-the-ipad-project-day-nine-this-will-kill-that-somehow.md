@@ -1,6 +1,8 @@
 ---
 title: "The iPad Project: Day Nine - This Will Kill That .... somehow."
 date: "2010-08-15"
+summary: ""
+layout: archive
 ---
 
 I took a day off today. What choice did I have? I cooked BBQ for lunch and then promptly fell asleep until 5pm.

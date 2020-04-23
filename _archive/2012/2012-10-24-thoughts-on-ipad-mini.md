@@ -1,6 +1,8 @@
 ---
 title: "Thoughts on iPad mini"
 date: "2012-10-24"
+summary: ""
+layout: archive
 ---
 
 Before Apple's announcement yesterday, I had worked myself into a kind of frenzy of "wouldn't it be AWESOME if you could get an iPad for £200?". That didn't happen and, on reflection, I feel a bit silly for ever thinking it might.

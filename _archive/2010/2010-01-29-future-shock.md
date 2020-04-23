@@ -1,6 +1,8 @@
 ---
 title: "Future Shock"
 date: "2010-01-29"
+summary: ""
+layout: archive
 ---
 
 I'll have more to say on the iPad later but one can't help being struck by the volume and vehemence of apparently technologically sophisticated people inveighing against the iPad.

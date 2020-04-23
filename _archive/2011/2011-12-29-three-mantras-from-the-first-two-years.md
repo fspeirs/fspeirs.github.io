@@ -1,6 +1,8 @@
 ---
 title: "Three Mantras from the First Two Years"
 date: "2011-12-29"
+summary: ""
+layout: archive
 ---
 
 It's been a busy first couple of terms at Cedars, doing things that are not all directly related to our iPad deployment. One big development this year has been our "Middle School" project - our approach to delivering the early-secondary part of Curriculum for Excellence. I have, however, been doing a lot of work on other schools' iPad deployments. I've been speaking to and working with schools in Scotland, England and Northern Ireland (Wales is "coming soon"!).

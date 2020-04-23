@@ -1,6 +1,8 @@
 ---
 title: "A School Day with the iPad"
 date: "2010-04-19"
+summary: ""
+layout: archive
 ---
 
 I've just finished my first day of teaching with the iPad. Here's a quick summary of what worked and what didn't.

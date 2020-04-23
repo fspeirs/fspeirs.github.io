@@ -1,6 +1,8 @@
 ---
 title: "The iPad Project: Day Eight - The Wake Up Call"
 date: "2010-08-14"
+summary: ""
+layout: archive
 ---
 
 Long, long day today. We've now activated and configured the majority of the iPads - over 100 with just a few left to go.

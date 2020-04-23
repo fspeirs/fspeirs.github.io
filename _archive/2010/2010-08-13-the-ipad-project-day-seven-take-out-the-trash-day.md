@@ -1,6 +1,8 @@
 ---
 title: "The iPad Project: Day Seven - Take Out The Trash Day"
 date: "2010-08-13"
+summary: ""
+layout: archive
 ---
 
 The iPads are here! Hurrah and all that.

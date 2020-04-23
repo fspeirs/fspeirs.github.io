@@ -1,6 +1,8 @@
 ---
 title: "The iPad Project: Day One"
 date: "2010-08-06"
+summary: ""
+layout: archive
 ---
 
 I'm about to start a series of daily blog posts about a project that I'm working on: do complete a 1:1 deployment of iPads to the school I work at.

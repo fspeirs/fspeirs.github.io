@@ -1,6 +1,8 @@
 ---
 title: "Down Memory Lane: Macs I Have Known And Occasionally Loved"
 date: "2009-01-21"
+summary: ""
+layout: archive
 ---
 
 Inspired by a post on Macworld and the [resulting Twitter meme](http://search.twitter.com/search?q=%23firstmac), I thought I would wash away the pain of paying my taxes tonight by taking a stroll down Mac Memory Lane.  

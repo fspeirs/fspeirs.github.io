@@ -1,6 +1,8 @@
 ---
 title: "Refresh: The Platform"
 date: "2013-01-02"
+summary: ""
+layout: archive
 ---
 
 Recently, I started looking into our upcoming device refresh. We are already two and a half years into the iPad project at Cedars and the first three years will be over before we know it. It's crazy to think how quickly the time has gone.

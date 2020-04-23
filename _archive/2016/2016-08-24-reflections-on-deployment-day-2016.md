@@ -1,6 +1,8 @@
 ---
 title: "Reflections on Deployment Day 2016"
 date: "2016-08-24"
+summary: ""
+layout: archive
 ---
 
 So it's now been a week since we rolled out our latest iteration of 1:1 iPad at Cedars. What does it look like and how did it go?

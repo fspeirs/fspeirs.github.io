@@ -1,6 +1,8 @@
 ---
 title: "A First Look at Google Classroom"
 date: "2014-07-31"
+summary: ""
+layout: archive
 ---
 
 I recently gained access to the first version of Google Classroom, Google's classroom management system for schools.

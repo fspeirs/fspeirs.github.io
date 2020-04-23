@@ -1,6 +1,8 @@
 ---
 title: "Decommissioning Day"
 date: "2016-07-04"
+summary: ""
+layout: archive
 ---
 
 So the school holidays are finally here and every sysadmin knows that that means you can start ripping things apart with total abandon. It's the happiest day of the year!

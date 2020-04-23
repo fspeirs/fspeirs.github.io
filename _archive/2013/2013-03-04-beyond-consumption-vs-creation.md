@@ -1,6 +1,8 @@
 ---
 title: "Beyond Consumption vs Creation"
 date: "2013-03-04"
+summary: ""
+layout: archive
 ---
 
 When the iPad first launched, many people reached for a quick analysis that it was a device "only for content consumption". Despite time and experience having proven those people quite obviously wrong, the debate seems to persist as to what the iPad is, precisely, _for_.
@@ -28,7 +30,7 @@ There may be other types of complex task that I haven't thought about. The exact
 
 Given that, here's a chart of how I think about the 'sweet spot' for each type of device.
 
-![](https://static.squarespace.com/static/5005914284aed5ec11c2d2e5/52bf3972e4b02db35e3ac342/52bf3972e4b02db35e3ad1fd/1362395973019/1000w/ConsumptionCreation.png)
+![](/assets/ConsumptionCreation.png)
 
 So what does this chart really say?
 

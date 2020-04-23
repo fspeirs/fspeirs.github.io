@@ -1,6 +1,8 @@
 ---
 title: "Apple Boots out the Booty"
 date: "2010-02-19"
+summary: ""
+layout: archive
 ---
 
 In _[The Apple Soft Porn Store](/blog/2010/1/20/the-apple-soft-porn-store.html)_, I wrote about the standard of some of the content in the App Store. To reiterate, my main problem was not that these applications existed but rather that the parental controls available were not appropriately filtering them out of listings and search.

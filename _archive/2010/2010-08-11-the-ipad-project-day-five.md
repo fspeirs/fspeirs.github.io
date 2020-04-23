@@ -1,6 +1,8 @@
 ---
 title: "The iPad Project: Day Five"
 date: "2010-08-11"
+summary: ""
+layout: archive
 ---
 
 Due to various errands that had to be run today, I got very little iPad work done.

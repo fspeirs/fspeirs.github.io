@@ -1,6 +1,8 @@
 ---
 title: "The Accoutrements of Computing"
 date: "2010-09-26"
+summary: ""
+layout: archive
 ---
 
 My wife and I were recently on a short break to London for our 10th wedding anniversary. Yesterday we visited the Cabinet War Rooms which we enjoyed very much. The whole site has been restored to the state it was in around 1944-1945 at the end of the war.

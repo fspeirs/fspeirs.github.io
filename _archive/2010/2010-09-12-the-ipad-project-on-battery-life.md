@@ -1,6 +1,8 @@
 ---
 title: "The iPad Project: On Battery Life"
 date: "2010-09-12"
+summary: ""
+layout: archive
 ---
 
 At one point last week I had to set up our dozen laptops in my class to use a website that required Flash, Shockwave and Java (name and shame: [SCHOLAR](http://scholar.hw.ac.uk)). It cut 15 minutes out of my lesson and felt like the most ridiculous hassle. It felt like a relic of the past.

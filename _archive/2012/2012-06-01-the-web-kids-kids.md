@@ -1,6 +1,8 @@
 ---
 title: "The Web Kids' Kids"
 date: "2012-06-01"
+summary: ""
+layout: archive
 ---
 
 I have James Bridle to thank for [recently reminding me](http://booktwo.org/notebook/opinions-are-non-contemporary/) of Piotr Czerski's _The Web Kids_. I used a portion of that piece in my presentation at the Covent Garden Apple Store last week:

@@ -1,6 +1,8 @@
 ---
 title: "iPads, Curriculum for Excellence and the Next Generation"
 date: "2010-10-19"
+summary: ""
+layout: archive
 ---
 
 There's been an incredibly fertile discussion channel on Twitter since last Friday, organised around the hashtag #ediff.

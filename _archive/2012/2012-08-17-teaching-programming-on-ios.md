@@ -1,6 +1,8 @@
 ---
 title: "Teaching Programming on iOS"
 date: "2012-08-17"
+summary: ""
+layout: archive
 ---
 
 I have been working for some time on a plan to move my programming classes off Macs and onto iPads. It's finally happening this year. A few people have asked me to write this up, so here goes.

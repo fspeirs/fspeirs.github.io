@@ -1,6 +1,8 @@
 ---
 title: "iPad, Two Weeks In"
 date: "2010-04-26"
+summary: ""
+layout: archive
 ---
 
 Liz Marley of the Omni Group [posted a short report about her experience of living off her iPad](http://lizmarley.blogspot.com/2010/04/ipad-as-conference-laptop.html). The experience seems to have been good.

@@ -1,6 +1,8 @@
 ---
 title: "Apple Reversing Policy on Smut Apps?"
 date: "2010-01-30"
+summary: ""
+layout: archive
 ---
 
 Following up on [The Apple Soft Porn Store](/blog/2010/1/20/the-apple-soft-porn-store.html), Krapps [is reporting](http://KRAPPS.com/2010/01/30/apple-begins-removing-iphone-smut/) (NSFW) that Apple has started removing and rejecting apps that exist to show pictures of ladies in various states of undress.

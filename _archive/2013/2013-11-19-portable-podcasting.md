@@ -1,6 +1,8 @@
 ---
 title: "Portable Podcasting"
 date: "2013-11-19"
+summary: ""
+layout: archive
 ---
 
 My friend Bradley Chambers and I have been recording and publishing a podcast for over a year now. I love podcasting because it's fun, relatively easy and I love Bradley's pragmatic take on things. I could be an ivory-tower theoretician so far up my own backside without Bradley to keep me grounded.

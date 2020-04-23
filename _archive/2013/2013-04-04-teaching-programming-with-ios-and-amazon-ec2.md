@@ -1,6 +1,8 @@
 ---
 title: "Teaching Programming with iOS and Amazon EC2"
 date: "2013-04-04"
+summary: ""
+layout: archive
 ---
 
 I just shut down the Amazon EC2 instance we've been using all school year, so I thought it was worth reflecting on. Last August, I [wrote about my new approach to teaching Ruby programming on our iPads](/blog/2012/8/17/teaching-programming-on-ios.html).

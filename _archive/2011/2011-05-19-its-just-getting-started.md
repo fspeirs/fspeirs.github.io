@@ -1,6 +1,8 @@
 ---
 title: "It's just getting started"
 date: "2011-05-19"
+summary: ""
+layout: archive
 ---
 
 We are about six weeks away from the summer holidays at Cedars. That's a whole academic year passed since we first deployed the iPad to every pupil, and what a year it's been.

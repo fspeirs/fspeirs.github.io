@@ -1,6 +1,8 @@
 ---
 title: "The iPad Project: The Night Before Christmas"
 date: "2010-08-22"
+summary: ""
+layout: archive
 ---
 
 The school opens for business again tomorrow. iPads have been sync'ed and we've had the debate about whether it's _sync'ed_ or _sunk_. I wanted to write a little about our take-home policy, since it's the question I get almost more than any other.

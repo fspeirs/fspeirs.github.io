@@ -1,6 +1,8 @@
 ---
 title: "The Post-Mobile Era"
 date: "2014-12-17"
+summary: ""
+layout: archive
 ---
 
 Twitter followers will know that I've been interested in Chrome OS for a while. Podcast listeners will know that I've been crazily frustrated with Apple's technology since iOS 7 shipped, particularly from a quality standpoint.

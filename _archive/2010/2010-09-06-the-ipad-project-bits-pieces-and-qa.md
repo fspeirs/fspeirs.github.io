@@ -1,6 +1,8 @@
 ---
 title: "The iPad Project: Bits, Pieces and Q&A"
 date: "2010-09-06"
+summary: ""
+layout: archive
 ---
 
 Lots of little things are happening right now, along with some bigger things that aren't ready to share yet.

@@ -1,6 +1,8 @@
 ---
 title: "The iPad Project: Day Two"
 date: "2010-08-07"
+summary: ""
+layout: archive
 ---
 
 I talked yesterday about the back story to our considering the iPod touch for education. We had all but decided to go ahead and look at it in detail when the iPad was announced. I want to talk a little about the response to the iPad.

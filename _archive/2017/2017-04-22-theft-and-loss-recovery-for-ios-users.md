@@ -1,6 +1,8 @@
 ---
 title: "Theft and Loss Recovery for iOS Users"
 date: "2017-04-12"
+summary: ""
+layout: archive
 ---
 
 Recently, I took my family on a trip to France. We had a wonderful time but it was slightly marred by the events of the last evening in Paris when one of our bags was stolen from literally at our feet in a restaurant.

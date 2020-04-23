@@ -1,6 +1,8 @@
 ---
 title: "Carbon: The Technology Thought Impossible"
 date: "2010-01-03"
+summary: ""
+layout: archive
 ---
 
 To add to yesterday's list of significant Apple technologies of the decade, and prompted by a comment from Fraser Hess, it's worth mentioning Carbon.

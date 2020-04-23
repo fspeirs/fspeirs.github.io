@@ -1,6 +1,8 @@
 ---
 title: "Of 3G iPads and MiFis"
 date: "2010-05-29"
+summary: ""
+layout: archive
 ---
 
 Today I asserted on Twitter that a 3G iPad is far superior to a WiFi iPad paired with a MiFi device. To save myself answering the "why do you say that" question twenty times, here's the tl;dr version.

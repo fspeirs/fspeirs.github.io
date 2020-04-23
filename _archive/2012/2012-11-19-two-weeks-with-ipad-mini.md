@@ -1,6 +1,8 @@
 ---
 title: "Two Weeks with iPad mini"
 date: "2012-11-19"
+summary: ""
+layout: archive
 ---
 
 The first thing to get out of the way is that the iPad mini is an iPad. Even more than calling it a _real_ iPad, I want to describe it as a _full_ iPad. Give or take a few benchmark points, it's as powerful as any iPad that existed until the 4th-generation 9.7" iPad. This is really important. It's important because the executive summary of what I'm about to write is this: get the one you like best.

@@ -1,6 +1,8 @@
 ---
 title: "The iPad Project: Day Six - The Hamiltonian Cycle"
 date: "2010-08-12"
+summary: ""
+layout: archive
 ---
 
 It's time to talk about app distribution. Recall that we have one computer, one Mac OS X user account and one iTunes library in each primary classroom. There are four classrooms and a 'master' computer to use up our total of five authorised computers.

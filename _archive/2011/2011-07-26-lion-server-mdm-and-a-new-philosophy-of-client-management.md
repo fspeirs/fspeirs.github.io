@@ -1,6 +1,8 @@
 ---
 title: "Lion Server, MDM and a New Philosophy of Client Management"
 date: "2011-07-26"
+summary: ""
+layout: archive
 ---
 
 I have recently been working on deploying a new server at school. Our old faithful Xserve G5 is coming to the end of its days and a new Mac Pro is replacing it. I decided to take the plunge and deploy Lion Server. There has been a fair amount of criticism of Lion Server but, for my needs, it is an outstanding release.

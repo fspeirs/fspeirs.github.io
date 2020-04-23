@@ -1,6 +1,8 @@
 ---
 title: "Can the MacBook Pro Replace Your iPad?"
 date: "2015-11-30"
+summary: ""
+layout: archive
 ---
 
 There has been a lot of talk in recent weeks about the MacBook Pro and, in particular, whether it can replace an iPad Pro for getting real work done.

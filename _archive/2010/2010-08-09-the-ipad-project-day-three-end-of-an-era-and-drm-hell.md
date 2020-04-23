@@ -1,6 +1,8 @@
 ---
 title: "The iPad Project: Day Three - End of an Era, and DRM Hell"
 date: "2010-08-09"
+summary: ""
+layout: archive
 ---
 
 Today was a preparation day. The plan calls for the breakup of the iMac lab, so that's what I did this morning. It was a simple enough job to shuffle the computers into the various classes and hook them up.

@@ -1,6 +1,8 @@
 ---
 title: "90 iPads in 90 Minutes"
 date: "2016-07-19"
+summary: ""
+layout: archive
 ---
 
 Today was phase one of our new deployment. We received the shipment of iPad Pros (9.7", 32GB, WiFi) that will make up two thirds of our deployment over the next three years.
@@ -95,9 +97,7 @@ In this case, the lock screen message is as simple as "This iPad is allocated to
 
 The result is that each device gets a custom message on the lock screen - even before the iOS setup assistant has completed. At this point, I can just pick up each device, look at the soft asset tag on the display and put the iPad into the right class box.
 
-\>
-
-![Excuse the fuzziness - we kept the plastic wraps on the devices while handling them.](https://images.squarespace-cdn.com/content/v1/5005914284aed5ec11c2d2e5/1468962266799-EVW9OAXXAFB2TSOUOQCL/ke17ZwdGBToddI8pDm48kC7pQI18Kk7IiffZ6fML9j17gQa3H78H3Y0txjaiv_0foACs49-HBkG_F4C3fTziOwVtqe4SbB55k1DuUOwTBBksAsNUJTJskTY99hJxEcVyOqpeNLcJ80NK65_fV7S1UTZjuYExiJKXjlenqmAoyWclW-ofIo9gvWB_kUTnPSwFnXMMx_GOhcYMLHDPdj1XGA/image-asset.jpeg)
+![Excuse the fuzziness - we kept the plastic wraps on the devices while handling them.](/assets/ipadscreenshot.jpeg)
 
 Excuse the fuzziness - we kept the plastic wraps on the devices while handling them.
 

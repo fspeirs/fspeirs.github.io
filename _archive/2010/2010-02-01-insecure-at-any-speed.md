@@ -1,6 +1,8 @@
 ---
 title: "Insecure at Any Speed"
 date: "2010-02-01"
+summary: ""
+layout: archive
 ---
 
 This [tweet from Chris Espinosa](http://twitter.com/cdespinosa/status/8445248002) got me thinking:

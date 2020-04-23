@@ -1,11 +1,11 @@
 ---
 title: "Say Hello to Canvas"
 date: "2016-01-08"
+summary: ""
+layout: archive
 ---
 
-\>
-
-![image.jpg](https://images.squarespace-cdn.com/content/v1/5005914284aed5ec11c2d2e5/1452266373340-1TI4X1VYMOLNKM5OPKJ4/ke17ZwdGBToddI8pDm48kHldqyjDwaeS7kYSmaCmglZ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmTl_ALRZE0UkEheIF40jl8l-p-UjEfP0lrs6khMOijucIE9LbemCnC0mKIu4O-BCA/image.jpg)
+![image.jpg](/assets/canvas.jpg)
 
 I'm very pleased to announce the release of a new podcast on Relay FM.
 

@@ -1,6 +1,8 @@
 ---
 title: "The iPad Project - Paper is Heavy, but eBooks weigh me down."
 date: "2010-08-19"
+summary: ""
+layout: archive
 ---
 
 I've stopped putting the day count on these posts because I can no longer remember.

@@ -1,6 +1,8 @@
 ---
 title: "What's Next for the iPad Project?"
 date: "2010-11-12"
+summary: ""
+layout: archive
 ---
 
 It's been a while since I wrote here. We had a holiday, then I was in the US visiting with schools and educators who are interested in or already using the iPad.

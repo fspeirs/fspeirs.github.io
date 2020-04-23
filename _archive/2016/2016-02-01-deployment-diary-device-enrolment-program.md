@@ -1,6 +1,8 @@
 ---
 title: "Deployment Diary: Device Enrolment Program"
 date: "2016-02-01"
+summary: ""
+layout: archive
 ---
 
 At Cedars, we are now in our sixth year of being a 1:1 iPad school. We started in 2010 with the original iPad and refreshed in 2013 to the then-current 4th-generation iPad with Retina Display.

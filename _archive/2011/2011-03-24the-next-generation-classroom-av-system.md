@@ -1,6 +1,8 @@
 ---
 title: "The Next-Generation Classroom AV System"
 date: "2011-03-24"
+summary: ""
+layout: archive
 ---
 
 Our classroom AV systems are built out of the standard kit: projectors, interactive whiteboards or projector screens and staff laptops or classroom iMacs. They're all coming to the end of their lives and it's time to re-think what we want and need out of classroom AV.

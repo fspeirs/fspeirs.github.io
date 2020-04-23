@@ -1,6 +1,8 @@
 ---
 title: "The iPad Project: Day Four - Activate the iPad!"
 date: "2010-08-10"
+summary: ""
+layout: archive
 ---
 
 If you've seen the movie "Hero", there's a scene where Jet Li and his opponent stand off and visualise the fight to come and then, with one blow, the fight is over. Well, that wasn't me today. No, today, I was more like Simon Pegg in Shaun of the Dead waving my cricket bat around wildly.

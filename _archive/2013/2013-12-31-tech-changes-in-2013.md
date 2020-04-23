@@ -1,6 +1,8 @@
 ---
 title: "Tech Changes in 2013"
 date: "2013-12-31"
+summary: ""
+layout: archive
 ---
 
 I'm not generally someone who likes to think much about what has passed. I prefer to look ahead as much as possible but I always like to reflect on what has happened and changed over the past year whenever the calendar turns over.
@@ -97,9 +99,8 @@ One of the most important things I wrote this year was "[Beyond Consumption vs. 
 > 
 > _I'd like to propose a more useful pair of axes on which we can place these devices - smartphones, tablets and traditional PCs - than simply consumption/creation. I'd like to propose that we can look at the 'sweet spot' for each type of device along two axes: task complexity and task duration._
 
-\>
 
-![image.jpg](https://images.squarespace-cdn.com/content/v1/5005914284aed5ec11c2d2e5/1388522367107-3NG6PE52XF2N0T488E64/ke17ZwdGBToddI8pDm48kOfVThQ3fL68mX7kulBhN2dZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpw1J04mMeNBLz29E86rhKs_HL_9GYLU9gzoLkwevDLpTWXtxOv71ee4rr4nCyE3b7A/image.jpg)
+![Consumption vs Creation](/assets/ConsumptionCreation.png)
 
 If you look at the chart on that page, what I'm really asking for is for the mobile devices to squeeze the desktop comptuers harder in both directions. They should be usable for more complex tasks and for longer periods. I bought the 128GB iPad Air this year and its combination of huge data storage and high performance really has opened up many new tasks that I would previously not have attempted on my 64GB iPad retina. To give just one example, I recently completed a project that required the capture, management and editing of over 40GB of 1080p video and I did it all on my iPad Air without an issue.
 

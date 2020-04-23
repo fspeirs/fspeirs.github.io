@@ -1,6 +1,8 @@
 ---
 title: "Thoughts on Swift Playgrounds"
 date: "2016-06-16"
+summary: ""
+layout: archive
 ---
 
 At WWDC 2016 Apple announced Swift Playgrounds for iOS. Swift Playgrounds is an app that is connected to a larger initiative from Apple called "[Everyone Can Code](http://www.apple.com/education/everyone-can-code/)".

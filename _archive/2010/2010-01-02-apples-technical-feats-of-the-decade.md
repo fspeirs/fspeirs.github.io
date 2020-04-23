@@ -1,6 +1,8 @@
 ---
 title: "Apple's Technical Feats of the Decade"
 date: "2010-01-02"
+summary: ""
+layout: archive
 ---
 
 It's Apple-retrospective time all over the internet, and everyone's talking about Mac OS X, the iPod and iPhone. I wanted to take a minute and reflect on ten lower-level technical innovations that Apple produced in the past decade which are probably unremarkable to any marketing-oriented discussion but which moved the state of the art on in some way.

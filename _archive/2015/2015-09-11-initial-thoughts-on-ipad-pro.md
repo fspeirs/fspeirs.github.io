@@ -1,6 +1,8 @@
 ---
 title: "Initial Thoughts on iPad Pro"
 date: "2015-09-11"
+summary: ""
+layout: archive
 ---
 
 > _"The iPad is the clearest expression of our vision of the future of personal computing."_ - Tim Cook

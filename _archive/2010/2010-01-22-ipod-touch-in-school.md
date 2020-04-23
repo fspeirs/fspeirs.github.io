@@ -1,6 +1,8 @@
 ---
 title: "iPod touch in School"
 date: "2010-01-22"
+summary: ""
+layout: archive
 ---
 
 My thanks to Chris Foresman at Ars Technica for [covering the issue of restricted applications being browseable in the App Store, even when restricted](http://arstechnica.com/apple/news/2010/01/parental-controls-glitch-gives-kids-access-to-app-store-porn.ars?comments=1). I wanted to write a bit more about a couple of issues that people have raised in comments both on Twitter and at Ars.

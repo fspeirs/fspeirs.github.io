@@ -1,6 +1,8 @@
 ---
 title: "iPad as Digital Whiteboard"
 date: "2011-03-29"
+summary: ""
+layout: archive
 ---
 
 I want to highlight a fun thing I tried the other day. I don't know why it didn't occur to me before try it, but it worked pretty well.

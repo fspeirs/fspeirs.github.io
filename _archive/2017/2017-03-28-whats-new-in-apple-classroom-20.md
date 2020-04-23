@@ -1,6 +1,8 @@
 ---
 title: "What's new in Apple Classroom 2.0"
 date: "2017-03-28"
+summary: ""
+layout: archive
 ---
 
 With iOS 10.3, Apple have released [Apple Classroom 2.0](http://www.apple.com/education/products/#ipad-assistant). Apple Classroom first shipped alongside iOS 9.3 and provided tools to help teachers in an iPad-based classroom.

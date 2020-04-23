@@ -1,6 +1,8 @@
 ---
 title: "Accessibility on the iPad in Schools"
 date: "2010-12-20"
+summary: ""
+layout: archive
 ---
 
 My friend Matt Gemmell recently posted [an in-depth article on the accessibility features of iOS devices](http://mattgemmell.com/2010/12/19/accessibility-for-iphone-and-ipad-apps). It's worth a read, although educationalists reading this blog may wish to skip the deep discussion of UIAccessibilityContainer.

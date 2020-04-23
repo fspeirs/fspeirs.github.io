@@ -1,6 +1,8 @@
 ---
 title: "Towards Zero-Touch iOS Deployment"
 date: "2016-07-14"
+summary: ""
+layout: archive
 ---
 
 One of my goals for the next deployment is to, well, do it faster. The holy grail of iOS deployment is to "never touch the glass". That is, to engineer a system whereby the most you ever do to a device is put it in a case and plug it into a cable.

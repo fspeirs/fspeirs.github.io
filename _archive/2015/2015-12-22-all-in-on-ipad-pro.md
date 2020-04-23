@@ -1,6 +1,8 @@
 ---
 title: "All-in on iPad Pro"
 date: "2015-12-22"
+summary: ""
+layout: archive
 ---
 
 I've been wanting to do this for five years now and it's finally happened. I sold my MacBook Pro to go all-in on iPad as my main personal computer. Yesterday, I packed my 2015 13" Retina MacBook Pro back into its box and sent it off to a new owner.

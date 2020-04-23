@@ -1,6 +1,8 @@
 ---
 title: "The iPad Project: Day Twelve - Guns, Butter and Apps"
 date: "2010-08-19"
+summary: ""
+layout: archive
 ---
 
 Yesterday, I dealt with the list of apps that teachers have asked for. Of course, if you want apps you have to have a way of paying for them.
